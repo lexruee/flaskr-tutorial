@@ -11,9 +11,9 @@ python -m venv venv
 source ./venv/bin/activate
 ```
 
-## Install flask
+## Install flask and co.
 ``` 
-pip install flask
+pip install flask pytest coverage
 ```
 
 ``` 
